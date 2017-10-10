@@ -1,0 +1,40 @@
+* {
+  border: 1px solid #000;
+}
+
+body{
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+ul
+{
+  padding: 0;
+  list-style:none;
+}
+
+
+.resume{
+  display: flex;
+  max-width: 950px;
+}
+
+.left{
+  flex:5
+}
+.right{
+  flex:7
+}
+
+.left,.right{
+  padding: 15px;
+}
+
+.left{
+  padding-right: 50px;
+}
+
+.right{
+  padding-left: 50px;
+}
