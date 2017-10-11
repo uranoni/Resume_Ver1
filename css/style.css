@@ -194,6 +194,21 @@ hr{
   width: 10%;
 }
 
+.value.p30{
+  width: 30%;
+}
+
+.value.p50{
+  width: 50%;
+}
+
+.value.p70{
+  width: 70%;
+}
+
+.value.p100{
+  width: 100%;
+}
 .btn{
   border:solid 3px #FF7168;
   padding:5px 20px;
